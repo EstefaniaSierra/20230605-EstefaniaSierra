@@ -1,0 +1,14 @@
+git init
+git add .
+git commit -m
+git push
+git branch
+mkdir
+touch
+nano 
+mv 
+git checkout
+git status
+rmdir
+ls
+cd
